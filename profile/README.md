@@ -7,6 +7,7 @@ Stawiamy na funkcjonalność, estetykę i indywidualne podejście do każdego pr
 - 🌐 **Strony internetowe** - landing page, strony firmowe i dedykowane aplikacje webowe.
 - 🤖 **Boty Discord** - automatyzacja, systemy ticketów, integracje i rozwiązania dopasowane do serwerów.
 - ✈️ **Boty Telegram** - automatyzacja i funkcjonalności dopasowane do potrzeb użytkowników.
+- 🔥 **Branding** - Identyfikacja wizualna, loga, banery discord o co tylko chcesz i na co masz pomysł.
 
 ## 🚀 Nasze realizacje
 - 🎨 **Landing Page dla NexCode**
