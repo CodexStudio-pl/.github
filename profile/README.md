@@ -12,6 +12,8 @@ Stawiamy na funkcjonalność, estetykę i indywidualne podejście do każdego pr
 ## 🚀 Nasze realizacje
 - 🎨 **Landing Page dla NexCode**
 - 🎮 **Landing Page dla CraftEkipa.pl**
+- 🔥 **Bot discord dla HitShop**
+- 🔗 **Panel hotignowy i Landing Page dla TalkNode**
 
 ## 📫 Kontakt
 - 🌐 **Strona internetowa:** [codexstudio.pl](https://codexstudio.pl)
